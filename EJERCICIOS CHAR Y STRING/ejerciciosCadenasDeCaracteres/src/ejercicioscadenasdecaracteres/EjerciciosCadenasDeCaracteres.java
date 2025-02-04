@@ -128,6 +128,7 @@ public class EjerciciosCadenasDeCaracteres {
             System.out.print(array[i]);
         }
         */
+       //prueba de sincronizacion
     }
 
 }
